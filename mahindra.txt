@@ -1,4 +1,0 @@
-1)color.
-2)face detetction.
-3)static background obj detection.
-4)dynamic background.
